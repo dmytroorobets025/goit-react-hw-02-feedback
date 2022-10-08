@@ -1,0 +1,11 @@
+.button {
+  padding: 8px;
+  margin: 8px;
+  border: 1px solid violet;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: violet;
+}
